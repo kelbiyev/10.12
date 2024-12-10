@@ -1,3 +1,0 @@
-/home/stud-27/kelbiyev/10.12/10.12/projectCL_Test/cmake-build-debug/CMakeFiles/projectCL_Test.dir
-/home/stud-27/kelbiyev/10.12/10.12/projectCL_Test/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/stud-27/kelbiyev/10.12/10.12/projectCL_Test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
