@@ -1,1 +1,3 @@
-10.12/projectCL_Test/cmake-build-debug
+projectCL_Test/
+    .gitignore
+    cmake-build-debug/
